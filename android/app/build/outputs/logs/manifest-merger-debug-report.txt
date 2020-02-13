@@ -1,0 +1,228 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:1:1-31:12
+MERGED from [:react-native-image-picker] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-network-state] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-network-state/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:@react-native-community_async-storage] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/@react-native-community/async-storage/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-linear-gradient] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.5] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/6ef6306fab01fda5652e5d6ae809fca1/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6b6863c9c3ecca85b8d818dad479c816/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/113c03ee5205b0ca6694f026760c56a3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/animated-gif-1.10.0.aar/36b21a4b42d495f7e2b5c824b90b6df9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.pwittchen:reactivenetwork-rx2:2.1.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/reactivenetwork-rx2-2.1.0.aar/d837dabdfff3bc7a07716fd1a329e350/AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a3f95388cd7b0108fb8a8ba632744d47/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f6f8fa1f4e0458e056cd63ea49ff532f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/af7bf5147aac10d4446061bb1f9c4b41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/cba8de75606a6ab6913de30c821ce6f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8e2501cf263bac32fe4dc637fe198b30/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7778b75b3e19b8fc9e8c8736c8a690a4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/4702613b4b05bdc7ad0c30a882819528/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-base:1.10.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/animated-base-1.10.0.aar/4829c259a922bde0a465573c3a48cd99/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/animated-drawable-1.10.0.aar/30af340fdd9ac35f35bd0395ca823ce9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/125e60a20a85e0d6bae20fe58e280551/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/b70582dced2a2583fccc4e935a783a1f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/a8c60d038c42ee16cd428002e76a09a5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/1910f121f61c621e9cbf5a4830391db8/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/985d088c20396eb3b32db9e8710bf909/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/40f2861a5633eca96c73a5f04fc67d51/AndroidManifest.xml:2:1-9:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/63c55853008e9753e8344b1beda77b21/AndroidManifest.xml:15:1-21:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/47988360bbe3330510b807b8445dfb16/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5a254697141c7079a332d2b5544d8564/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/43d3d5028172bed82514a3b2621d8d91/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/784565a155d7ed67e1b2431d6cc3ef3a/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:1:1-31:12
+	package
+		ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:2:5-27
+		INJECTED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:1:1-31:12
+		INJECTED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:1:1-31:12
+		INJECTED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-network-state] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-network-state/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-network-state] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-network-state/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-67
+MERGED from [com.github.pwittchen:reactivenetwork-rx2:2.1.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/reactivenetwork-rx2-2.1.0.aar/d837dabdfff3bc7a07716fd1a329e350/AndroidManifest.xml:12:5-67
+MERGED from [com.github.pwittchen:reactivenetwork-rx2:2.1.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/reactivenetwork-rx2-2.1.0.aar/d837dabdfff3bc7a07716fd1a329e350/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.5] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/6ef6306fab01fda5652e5d6ae809fca1/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.5] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/6ef6306fab01fda5652e5d6ae809fca1/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [:react-native-network-state] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-network-state/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-79
+MERGED from [:react-native-network-state] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-network-state/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-79
+MERGED from [com.github.pwittchen:reactivenetwork-rx2:2.1.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/reactivenetwork-rx2-2.1.0.aar/d837dabdfff3bc7a07716fd1a329e350/AndroidManifest.xml:11:5-79
+MERGED from [com.github.pwittchen:reactivenetwork-rx2:2.1.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/reactivenetwork-rx2-2.1.0.aar/d837dabdfff3bc7a07716fd1a329e350/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:8:1-76
+	android:name
+		ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:8:18-74
+application
+ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:10:5-29:19
+MERGED from [:react-native-image-picker] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.57.5] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/6ef6306fab01fda5652e5d6ae809fca1/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.5] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/6ef6306fab01fda5652e5d6ae809fca1/AndroidManifest.xml:13:5-20
+MERGED from [com.github.pwittchen:reactivenetwork-rx2:2.1.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/reactivenetwork-rx2-2.1.0.aar/d837dabdfff3bc7a07716fd1a329e350/AndroidManifest.xml:14:5-20
+MERGED from [com.github.pwittchen:reactivenetwork-rx2:2.1.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/reactivenetwork-rx2-2.1.0.aar/d837dabdfff3bc7a07716fd1a329e350/AndroidManifest.xml:14:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/1910f121f61c621e9cbf5a4830391db8/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/1910f121f61c621e9cbf5a4830391db8/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/985d088c20396eb3b32db9e8710bf909/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/985d088c20396eb3b32db9e8710bf909/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:12:7-39
+	android:roundIcon
+		ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:14:7-52
+	android:icon
+		ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:13:7-41
+	android:allowBackup
+		ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:15:7-34
+	android:theme
+		ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:16:7-38
+	android:name
+		ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:11:7-38
+activity#com.matchcat.MainActivity
+ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:17:7-27:18
+	android:screenOrientation
+		ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:21:9-45
+	android:label
+		ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:19:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:22:9-51
+	android:configChanges
+		ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:20:9-79
+	android:name
+		ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:18:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:23:9-26:25
+action#android.intent.action.MAIN
+ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:24:13-65
+	android:name
+		ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:24:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:25:13-73
+	android:name
+		ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:25:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:28:7-84
+	android:name
+		ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:28:17-81
+uses-sdk
+INJECTED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-image-picker] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-network-state] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-network-state/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-network-state] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-network-state/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_async-storage] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/@react-native-community/async-storage/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/@react-native-community/async-storage/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-linear-gradient] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.5] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/6ef6306fab01fda5652e5d6ae809fca1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.5] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/6ef6306fab01fda5652e5d6ae809fca1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6b6863c9c3ecca85b8d818dad479c816/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6b6863c9c3ecca85b8d818dad479c816/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/113c03ee5205b0ca6694f026760c56a3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/113c03ee5205b0ca6694f026760c56a3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/animated-gif-1.10.0.aar/36b21a4b42d495f7e2b5c824b90b6df9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/animated-gif-1.10.0.aar/36b21a4b42d495f7e2b5c824b90b6df9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.pwittchen:reactivenetwork-rx2:2.1.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/reactivenetwork-rx2-2.1.0.aar/d837dabdfff3bc7a07716fd1a329e350/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.pwittchen:reactivenetwork-rx2:2.1.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/reactivenetwork-rx2-2.1.0.aar/d837dabdfff3bc7a07716fd1a329e350/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a3f95388cd7b0108fb8a8ba632744d47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a3f95388cd7b0108fb8a8ba632744d47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f6f8fa1f4e0458e056cd63ea49ff532f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/f6f8fa1f4e0458e056cd63ea49ff532f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/af7bf5147aac10d4446061bb1f9c4b41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/af7bf5147aac10d4446061bb1f9c4b41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/cba8de75606a6ab6913de30c821ce6f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/cba8de75606a6ab6913de30c821ce6f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8e2501cf263bac32fe4dc637fe198b30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8e2501cf263bac32fe4dc637fe198b30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7778b75b3e19b8fc9e8c8736c8a690a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7778b75b3e19b8fc9e8c8736c8a690a4/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/4702613b4b05bdc7ad0c30a882819528/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/4702613b4b05bdc7ad0c30a882819528/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.10.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/animated-base-1.10.0.aar/4829c259a922bde0a465573c3a48cd99/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.10.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/animated-base-1.10.0.aar/4829c259a922bde0a465573c3a48cd99/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/animated-drawable-1.10.0.aar/30af340fdd9ac35f35bd0395ca823ce9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/animated-drawable-1.10.0.aar/30af340fdd9ac35f35bd0395ca823ce9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/125e60a20a85e0d6bae20fe58e280551/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/125e60a20a85e0d6bae20fe58e280551/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/b70582dced2a2583fccc4e935a783a1f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/b70582dced2a2583fccc4e935a783a1f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/a8c60d038c42ee16cd428002e76a09a5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/a8c60d038c42ee16cd428002e76a09a5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/1910f121f61c621e9cbf5a4830391db8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/1910f121f61c621e9cbf5a4830391db8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/40f2861a5633eca96c73a5f04fc67d51/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/40f2861a5633eca96c73a5f04fc67d51/AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/63c55853008e9753e8344b1beda77b21/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/63c55853008e9753e8344b1beda77b21/AndroidManifest.xml:19:5-43
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/47988360bbe3330510b807b8445dfb16/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/47988360bbe3330510b807b8445dfb16/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5a254697141c7079a332d2b5544d8564/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5a254697141c7079a332d2b5544d8564/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/43d3d5028172bed82514a3b2621d8d91/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/43d3d5028172bed82514a3b2621d8d91/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/784565a155d7ed67e1b2431d6cc3ef3a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/chenjunyan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/784565a155d7ed67e1b2431d6cc3ef3a/AndroidManifest.xml:20:5-44
+INJECTED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [:react-native-image-picker] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:17-67
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:1:1-31:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/chenjunyan/Desktop/FATCAT/GitLab/p2p-app/android/app/src/main/AndroidManifest.xml:1:1-31:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
